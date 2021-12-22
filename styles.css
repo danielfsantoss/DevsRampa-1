@@ -1,0 +1,43 @@
+#container {
+    width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 25px 50px;
+    box-sizing: border-box;
+    background: #FCF6F5;
+    text-align: justify;
+    border-radius: 10px;
+}
+
+img {
+    border-radius: 10px;
+}
+   
+body {
+    background: #ffffff;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 16px;
+    
+}
+
+figcaption {
+    font-size: 12px;
+}
+
+#creditos {
+    font-size: 12px;
+    text-align: center;
+}
